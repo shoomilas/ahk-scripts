@@ -2,8 +2,8 @@
 SendMode Input
 SetWorkingDir, %A_ScriptDir%
 
-Space & i::Send {Blind}{Up}
-Space & j::Send {Blind}{Left}
-Space & k::Send {Blind}{Down}
-Space & l::Send {Blind}{Right}
-Space::Send {Space}  
+Space::Send {Space}
+Space & i::Up
+Space & j::Left
+Space & k::Down
+Space & l::Right
