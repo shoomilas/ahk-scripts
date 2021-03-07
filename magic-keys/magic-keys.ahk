@@ -43,7 +43,10 @@ Space::^BackSpace
 0::CapsLock
 g::PgDn
 t::PgUp
-[::SendRaw [] 
+[::SendRaw []
+]::
+    SendRaw []
+    Send {Left}
 #If 
 
 *CapsLock::
