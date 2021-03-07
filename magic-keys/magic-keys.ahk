@@ -31,6 +31,7 @@ o::End
 
 h::BackSpace
 m::BackSpace
+n::^BackSpace
 Space::^BackSpace
 ,::Delete
 .::^Delete
