@@ -37,6 +37,9 @@ Space::^BackSpace
 .::^Delete
 
 1::#+S ; WIN + SHIFT + S
+2::Volume_Down
+3::Volume_Up
+4::Media_Play_Pause
 0::CapsLock
 g::PgDn
 t::PgUp
