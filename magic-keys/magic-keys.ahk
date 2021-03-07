@@ -10,11 +10,17 @@ SetWorkingDir, %A_ScriptDir%
 
 SetCapsLockState, AlwaysOff
 
+; ;===Interesting:
 #If GetKeyState("CapsLock", "P")
 a::Left
 s::Down
 w::Up
 d::Right
+q::Home
+e::End
+z::^BackSpace
+x::BackSpace
+c::Delete
 
 j::Left
 k::Down
@@ -23,11 +29,46 @@ l::Right
 u::Home
 o::End
 
-n::^BackSpace
+h::BackSpace
 m::BackSpace
+Space::^BackSpace
 ,::Delete
 .::^Delete
-#If
+
+1::#+S ; WIN + SHIFT + S
+0::CapsLock
+g::PgDn
+t::PgUp
+#If 
 
 *CapsLock::
 KeyWait, CapsLock
+
+;===Conservative:
+; #If GetKeyState("CapsLock", "P")
+; a::Left
+; s::Down
+; w::Up
+; d::Right
+; q::Home
+; e::End
+; z::^BackSpace
+; x::BackSpace
+; c::Delete
+
+; j::Left
+; k::Down
+; i::Up
+; l::Right
+; u::Home
+; o::End
+
+; h::^BackSpace
+; n::^BackSpace
+; m::BackSpace
+; ,::Delete
+; .::^Delete
+
+; 1::#+S ; WIN + SHIFT + S
+; 0::CapsLock
+; #If
