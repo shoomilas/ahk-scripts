@@ -36,6 +36,7 @@ Space::^BackSpace
 ,::Delete
 .::^Delete
 
+Esc::`
 1::#+S ; WIN + SHIFT + S
 2::Volume_Down
 3::Volume_Up
