@@ -39,6 +39,7 @@ Space::^BackSpace
 0::CapsLock
 g::PgDn
 t::PgUp
+[::SendRaw [] 
 #If 
 
 *CapsLock::
