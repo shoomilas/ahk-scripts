@@ -41,6 +41,7 @@ Esc::`
 2::Volume_Down
 3::Volume_Up
 4::Media_Play_Pause
+5::Run, "wt"
 0::CapsLock
 g::PgDn
 t::PgUp
