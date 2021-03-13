@@ -2,6 +2,7 @@
 SendMode Input
 SetWorkingDir, %A_ScriptDir%
 
+; TODO: Space as leader key
 ; Space::Send {Space}
 ; Space & i::Up
 ; Space & j::Left
