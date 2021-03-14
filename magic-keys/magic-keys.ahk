@@ -37,6 +37,7 @@ Space::^BackSpace
 ,::Delete
 .::^Delete
 
+Tab::Send {Space}{Space}{Space}{Space}
 Esc::`
 1::#+S ; WIN + SHIFT + S
 2::Volume_Down
