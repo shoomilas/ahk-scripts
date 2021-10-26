@@ -2,7 +2,7 @@
 
 ## magic-keys
 Utilizes the useless but convinientely placed CAPS LOCK button on your keyboard to extend its ergonomics.
-Essentially this allows for much quicker writing without having to extend fingers far to reach the commonly used keys such as the arrow keys or BACKSPACE and DELETE. Also, for example, pressing `CAPS LOCK + Space` is significantly more comfortable than CTRL+Backspace
+Essentially this allows for much quicker writing without having to extend fingers far to reach the commonly used keys such as the arrow keys or BACKSPACE and DELETE. Also, for example, pressing `CAPS LOCK + Space` is significantly more comfortable than `CTRL+Backspace`
 
 `CAPS LOCK` + 
 - `W`/`S`/`A`/`D` or `I`/`J`/`K`/`L` → arrow keys
@@ -24,4 +24,4 @@ Essentially this allows for much quicker writing without having to extend finger
 
 ## tabs-scroller
 
-Allows for quickly changing browser tabs by holding middle mouse button and using the scroll-wheel. Triggers CTRL+TAB / CTRL+SHIFT+TAB keyboard shortcuts.
+Allows for quickly changing browser tabs by holding middle mouse button and using the scroll-wheel. Triggers `CTRL+TAB` / `CTRL+SHIFT+TAB` keyboard shortcuts.
