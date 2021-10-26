@@ -4,7 +4,7 @@
 Utilizes the useless but convinientely placed CAPS LOCK button on your keyboard to extend its ergonomics.
 Essentially this allows for much quicker writing without having to extend fingers far to reach the commonly used keys such as the arrow keys or BACKSPACE and DELETE. Also, for example, pressing `CAPS LOCK + Space` is significantly more comfortable than CTRL+Backspace
 
-CAPS LOCK + 
+`CAPS LOCK` + 
 - `W`/`S`/`A`/`D` or `I`/`J`/`K`/`L` → arrow keys
 - `U` or `Q` → HOME
 - `O` or `E` → END
