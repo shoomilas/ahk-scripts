@@ -38,7 +38,7 @@ Space::^BackSpace
 .::^Delete
 
 Tab::Send {Space}{Space}{Space}{Space}
-Esc::`
+Esc::F11
 1::#+S ; WIN + SHIFT + S
 2::Volume_Down
 3::Volume_Up
@@ -49,8 +49,8 @@ g::PgDn
 t::PgUp
 [::SendRaw []
 ]::
-    SendRaw []
-    Send {Left}
+SendRaw []
+Send {Left}
 #If 
 
 *CapsLock::

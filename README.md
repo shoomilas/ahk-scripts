@@ -14,7 +14,7 @@ Essentially this allows for much quicker writing without having to extend finger
 - `.` → CTRL+DELETE
 - `T` → PAGE UP
 - `G` → PAGE DOWN
-- `ESC` → `
+- `ESC` → F11
 - `1` → WIN+SHIFT+S (screen snipping tool shortcut)
 - `2` → VOL DOWN
 - `3` → VOL UP
