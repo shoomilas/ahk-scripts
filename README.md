@@ -14,12 +14,14 @@ Essentially this allows for much quicker writing without having to extend finger
 - `.` → CTRL+DELETE
 - `T` → PAGE UP
 - `G` → PAGE DOWN
-- `ESC` → F11
-- `1` → WIN+SHIFT+S (screen snipping tool shortcut)
+- `ESC` → `
+- `1` → F11
 - `2` → VOL DOWN
 - `3` → VOL UP
 - `4` → MEDIA PLAY/PAUSE
 - `5` → Start Windows Terminal
+- `6` → WIN+SHIFT+S (screen snipping tool shortcut)
+- `6` → ALT+HOME (Chromeium's _open homepage_ shortcut)
 - `0` → CAPS LOCK (👌)
 
 ## tabs-scroller
