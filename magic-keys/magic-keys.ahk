@@ -43,9 +43,10 @@ Esc::`
 2::Volume_Down
 3::Volume_Up
 4::Media_Play_Pause
-5::Run, "wt"
-6::#+S ; WIN + SHIFT + S
-7::!Home
+5::Run wt -p Ubuntu
+6::Run, "wt"
+8::#+S ; WIN + SHIFT + S
+9::!Home
 0::CapsLock
 g::PgDn
 t::PgUp
